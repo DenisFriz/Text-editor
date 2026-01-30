@@ -20,7 +20,7 @@ npm run dev
 After running this, open your browser at:
 
 ```bash
-http://localhost:5173
+http://localhost:5173/Text-editor/
 ```
 
 Цей хук `useHistory` зберігає історію тексту, щоб можна було робити **undo** і **redo**. Для продуктивності він обмежує кількість збережених станів (за замовчуванням 10) і очищає майбутні стани після нових змін.
