@@ -1,9 +1,9 @@
 {
-  "name": "text-tools",
+  "name": "text-editor",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://denisfriz.github.io/text-tools",
+  "homepage": "https://denisfriz.github.io/Text-editor/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

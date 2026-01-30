@@ -5,7 +5,7 @@ Follow these steps to run the project on your computer:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/denisfriz/text-tools.git
+git clone https://github.com/DenisFriz/Text-editor.git
 cd text-tools
 ```
 
